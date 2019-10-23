@@ -33,4 +33,3 @@ b.	Embedded C Compiler
 NOTE:
 Brainsense works on Baud_Rate - 9600
 Matlab works on Baud_Rate - 115200
-
