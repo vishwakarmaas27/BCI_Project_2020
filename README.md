@@ -1,4 +1,4 @@
-# BCI_Project_2019_20
+# BCI_Project_2020
 
 The brain computer interface is a way of communication between the human brain and different appliances. BCI helps in the restoration of natural moments of the human body with respect to the neural signals in an artificial manner. It is an artificial system that bypasses the body’s normal efficient pathways, which are the neuromuscular output channels.
 
