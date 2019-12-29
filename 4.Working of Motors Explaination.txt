@@ -1,0 +1,12 @@
+00:00:00 - 00:00:10
+Blinked once to Start Clockwise Rotation
+Blinked again to stop the Rotation of motors.
+
+00:00:13 - 00:00:23
+Blinked once to start Anticlockwise Rotation 
+Blinked again to stop the Rotation of motors.
+
+00:00:23 - 00:00:28
+Blinked once to Start Clockwise Rotation
+Blinked again to start Anticlockwise Rotation 
+Blinked again to stop the Rotation of motors.
